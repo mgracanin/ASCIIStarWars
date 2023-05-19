@@ -11,10 +11,10 @@ This program plays the Star Wars movie in ASCII art in the Python terminal.
 To run the program, simply navigate to the directory where the program is located and run the following command:
 
 ```
-python star_wars_ascii.py
+python __init__.py
 ```
 
-The program will then begin playing the Star Wars movie in ASCII art in the terminal.
+The program will then begin playing the Star Wars movie in ASCII art in the terminal. Just make sure you have the starwars.txt file in the same directory as the Python script.
 
 ## Credits
 
