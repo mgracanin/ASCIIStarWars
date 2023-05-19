@@ -1,7 +1,7 @@
 # ASCIIStarWars
 If you're missing ASCII Star Wars via telnet at towel.blinkenlights.nl, this will play the same thing in Python terminal directly. 
 
-```
+
 # Star Wars ASCII Player (ASCIIStarWars)
 
 This program plays the Star Wars movie in ASCII art in the Python terminal.
@@ -23,6 +23,3 @@ The ASCII art used in this program was originally created by Simon Jansen. We wo
 ## License
 
 This program is licensed under the MIT License. See the LICENSE file for more information.
-```
-
-Is there anything else you would like to know?
