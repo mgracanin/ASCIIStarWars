@@ -2,8 +2,7 @@ from asyncio import sleep
 from pathlib import Path
 
 '''
-https://www.asciimation.co.nz/
-
+ASCII Art from https://www.asciimation.co.nz/
 '''
 
 starwars_file_path = (f"{Path(__file__).parent}/starwars.txt")
