@@ -4,10 +4,6 @@ from pathlib import Path
 '''
 https://www.asciimation.co.nz/
 
-var temp = document.createElement('a');
-temp.href = URL.createObjectURL(new Blob([film.join('\n')], { type: 'text/plain' }));
-temp.download = 'starwars.txt';
-temp.click();
 '''
 
 starwars_file_path = (f"{Path(__file__).parent}/starwars.txt")
