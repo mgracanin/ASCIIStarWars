@@ -18,8 +18,8 @@ The program will then begin playing the Star Wars movie in ASCII art in the term
 
 ## Credits
 
-The ASCII art used in this program was originally created by Simon Jansen. We would like to thank him for his amazing work and for allowing us to use it in this program.
+The ASCII art used in this program was originally created by Simon Jansen. I would like to thank him for his amazing work.
 
 ## License
 
-This program is licensed under the MIT License. See the LICENSE file for more information.
+This program is licensed under the MIT License.
