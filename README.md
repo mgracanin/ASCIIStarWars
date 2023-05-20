@@ -14,7 +14,7 @@ To run the program, simply navigate to the directory where the program is locate
 python __init__.py
 ```
 
-The program will then begin playing the Star Wars movie in ASCII art in the terminal. Just make sure you have the starwars.txt file in the same directory as the Python script.
+The program will then begin playing the Star Wars movie in ASCII art in the terminal. Just make sure you have the starwars.txt file in the same directory as the Python script. The file was taken from https://www.asciimation.co.nz/, and if you would like to find out more about how whole animation works, read their excellent FAQ at https://www.asciimation.co.nz/asciimation/ascii_faq.html.
 
 ## Credits
 
