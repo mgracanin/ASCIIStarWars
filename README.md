@@ -1,4 +1,4 @@
-# ASCIIStarWars
+# ASCIIStarWars (in Python)
 If you're missing ASCII Star Wars via telnet at towel.blinkenlights.nl, this will play the same thing in Python terminal directly. 
 
 
