@@ -1,5 +1,6 @@
 from asyncio import sleep
 from pathlib import Path
+import os, sys
 
 '''
 ASCII Art from https://www.asciimation.co.nz/
